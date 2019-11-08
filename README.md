@@ -1,4 +1,4 @@
-# Simple-todo-list
+# Classic-todo-list
 
 ## Classic ToDo
 
